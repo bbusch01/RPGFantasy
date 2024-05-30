@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RPG Fantasy Football League</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>RPG Fantasy Football League</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="rules.html">Rules</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <h2>Welcome to the RPG Fantasy Football League!</h2>
+        <p>Embark on an epic adventure where fantasy meets football. Choose your character class, draft your team, and use unique abilities to conquer your opponents. Let the games begin!</p>
+    </main>
+    <footer>
+        <p>&copy; 2024 RPG Fantasy Football League</p>
+    </footer>
+</body>
+</html>
