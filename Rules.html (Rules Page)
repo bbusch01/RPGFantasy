@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>League Rules - RPG Fantasy Football</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>RPG Fantasy Football League</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="rules.html">Rules</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <h2>League Rules</h2>
+        <section>
+            <h3>League Structure</h3>
+            <p>1. <strong>Teams:</strong> The league will consist of 18 teams, each representing a fantasy character class (e.g., Warrior, Mage, Rogue).</p>
+            <p>2. <strong>Draft:</strong> A traditional snake draft will be held to select NFL players for each team&#39;s roster.</p>
+        </section>
+        <section>
+            <h3>Character Classes and Abilities</h3>
+            <h4>1. Warrior</h4>
+            <p><strong>Mighty Blow:</strong> Once per week, select a player who will gain an additional 2 points for every 20 rushing yards.</p>
+            <p><strong>Iron Will:</strong> Adds 2 points to each rushing touchdown scored by your running backs.</p>
+            <!-- Add the rest of the character classes similarly -->
+        </section>
+        <!-- Add remaining sections for Player Rosters, Matchups and Scoring, Waivers and Trades, Weekly Challenges, Playoff Challenges, and Marketplace -->
+    </main>
+    <footer>
+        <p>&copy; 2024 RPG Fantasy Football League</p>
+    </footer>
+</body>
+</html>
