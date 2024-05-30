@@ -1,0 +1,9 @@
+rpg-fantasy-football/
+├── index.html
+├── rules.html
+├── styles.css
+├── scripts.js
+└── images/
+    ├── warrior.png
+    ├── mage.png
+    └── ...
